@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Question</key>
+	<dict>
+		<key>ModelType</key>
+		<integer>0</integer>
+		<key>ModelName</key>
+		<string>Question</string>
+		<key>ModelSchema</key>
+		<dict>
+			<key>qid</key>
+			<string>INTEGER</string>
+			<key>hasoldmsg</key>
+			<string>INTEGER</string>
+			<key>question</key>
+			<string>BLOB</string>
+			<key>asker</key>
+			<string>BLOB</string>
+			<key>piclist</key>
+			<string>BLOB</string>
+		</dict>
+		<key>ModelOption</key>
+		<dict>
+			<key>primaryKey</key>
+			<array>
+				<string>qid</string>
+			</array>
+		</dict>
+	</dict>
+	<key>Answer</key>
+	<dict>
+		<key>ModelType</key>
+		<integer>1</integer>
+		<key>ModelName</key>
+		<string>Answer</string>
+		<key>ModelSchema</key>
+		<dict>
+			<key>aid</key>
+			<string>INTEGER</string>
+			<key>qid</key>
+			<string>INTEGER</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
