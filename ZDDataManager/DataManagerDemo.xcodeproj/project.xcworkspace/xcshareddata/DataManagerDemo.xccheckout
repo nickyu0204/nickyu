@@ -5,47 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>73430BAF-68A4-44EB-BB29-A1DE891218A2</string>
+	<string>F2F6CD45-854B-4744-8EE8-A1287DB4FFE6</string>
 	<key>IDESourceControlProjectName</key>
 	<string>DataManagerDemo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>9FA531E4-4513-46D4-A197-2041E0046BC0</key>
-		<string>https://svn.baidu.com/app/search/iknow/trunk/native/ios-lib/data-manager</string>
+		<key>A0EE5A5D-A75F-483E-9578-C7AF9B1AC6E6</key>
+		<string>https://github.com/nickyu0204/nickyu.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>ZDDataManager/DataManagerDemo.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>9FA531E4-4513-46D4-A197-2041E0046BC0</key>
+		<key>A0EE5A5D-A75F-483E-9578-C7AF9B1AC6E6</key>
 		<string>../../..</string>
 	</dict>
-	<key>IDESourceControlProjectRepositoryRootDictionary</key>
-	<dict>
-		<key>9FA531E4-4513-46D4-A197-2041E0046BC0</key>
-		<string>https://svn.baidu.com/app/search/iknow</string>
-	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://svn.baidu.com/app/search/iknow/trunk/native/ios-lib/data-manager/DataManager/DataManagerDemo.xcodeproj</string>
+	<string>https://github.com/nickyu0204/nickyu.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>9FA531E4-4513-46D4-A197-2041E0046BC0</string>
+	<string>A0EE5A5D-A75F-483E-9578-C7AF9B1AC6E6</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
-			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
-			<string>branches</string>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.subversion</string>
-			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
-			<string>tags</string>
-			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
-			<string>trunk</string>
+			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>9FA531E4-4513-46D4-A197-2041E0046BC0</string>
+			<string>A0EE5A5D-A75F-483E-9578-C7AF9B1AC6E6</string>
 			<key>IDESourceControlWCCName</key>
-			<string>data-manager</string>
+			<string>nickyu</string>
 		</dict>
 	</array>
 </dict>
